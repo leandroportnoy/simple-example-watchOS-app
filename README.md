@@ -21,5 +21,3 @@ The objetctive this funcionality is:
 
 ![alt text](https://github.com/leandroportnoy/simple-example-watchOS-app/blob/master/screenshot1.jpeg)
 
-![alt text](https://github.com/leandroportnoy/simple-example-watchOS-app/blob/master/screenshot2.jpeg)
-
