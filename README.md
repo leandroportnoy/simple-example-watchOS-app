@@ -1,4 +1,4 @@
-# WatchOS
+# A Simple Demonstration Project using WatchOS + SwiftUI
 
 # Description
 This project is a simple demonstration about how to create a WatchOS App using SwiftUI
