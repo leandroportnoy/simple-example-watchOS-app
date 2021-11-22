@@ -16,3 +16,10 @@ The objetctive this funcionality is:
 
 ## Libs
 - XCODE lastest version
+
+## Screenshots
+
+![alt text](https://github.com/leandroportnoy/simple-example-watchOS-app/blob/master/screenshot1.jpeg)
+
+![alt text](https://github.com/leandroportnoy/simple-example-watchOS-app/blob/master/screenshot2.jpeg)
+
